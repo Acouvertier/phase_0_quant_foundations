@@ -69,6 +69,7 @@ packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
 pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp313-cp313-win_amd64.whl#sha256=89153934c68f42239148879a6c0fd8bb5004e767550db26257dc4551ad0414d7
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///C:/b/abs_834b4mj92b/croot/parso_1733963322289/work
+patsy @ file:///C:/b/abs_f9h0eiedk0/croot/patsy_1738159949276/work
 pillow @ file:///C:/b/abs_68t826txdy/croot/pillow_1744613085333/work
 platformdirs @ file:///C:/b/abs_ddh15014or/croot/platformdirs_1744273060660/work
 prometheus_client @ file:///C:/b/abs_8b175q_ub8/croot/prometheus_client_1744271638821/work
@@ -96,7 +97,7 @@ requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
 rfc3339_validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3339-validator_1729040163441/work
 rfc3986_validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3986-validator_1729040192034/work
 rpds-py @ file:///C:/b/abs_0c6z5kcdb6/croot/rpds-py_1736545465023/work
-scipy==1.15.3
+scipy @ file:///C:/b/abs_71q96u23a4/croot/scipy_1747238057723/work/dist/scipy-1.15.3-cp313-cp313-win_amd64.whl#sha256=b5f3085bbab24a89daa9159000ae3a3fa1590d993aa2bf0d27f4db68d724271c
 seaborn @ file:///C:/b/abs_522_0_dy9p/croot/seaborn_1741187268016/work
 Send2Trash @ file:///C:/b/abs_7e73ol18dl/croot/send2trash_1736542724140/work
 setuptools==72.1.0
@@ -105,6 +106,7 @@ six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
 sniffio @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/sniffio_1729040228331/work
 soupsieve @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/soupsieve_1729039543636/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+statsmodels @ file:///C:/b/abs_c797jbabmm/croot/statsmodels_1734018887218/work
 terminado @ file:///C:/Users/dev-admin/buildout/croot/terminado_1735844257547/work
 tinycss2 @ file:///C:/Users/dev-admin/buildout/croot/tinycss2_1739559171127/work
 tornado @ file:///C:/Users/dev-admin/buildout/croot/tornado_1735843426044/work
