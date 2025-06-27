@@ -36,9 +36,9 @@ _duration_f = lambdify((r,fv,c,t,n),_duration_sym)
 _convexity_f = lambdify((r,fv,c,t,n),_convexity_sym)
 
 # === Vecotrized Functions of Bond Present Vale (r > 0) ===
-_present_value_fv = np.vectorize(_present_value_f)
-_duration_fv = np.vectorize(_duration_f)
-_convexity_fv = np.vectorize(_convexity_f)
+present_value_fv = np.vectorize(_present_value_f)
+duration_fv = np.vectorize(_duration_f)
+convexity_fv = np.vectorize(_convexity_f)
 
 # === Helper Functions ===
 def _close_column(df:pd.DataFrame, ticker:str) -> pd.DataFrame:
